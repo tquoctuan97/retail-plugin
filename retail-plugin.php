@@ -13,12 +13,12 @@
  * @package           Retail_Plugin
  *
  * @wordpress-plugin
- * Plugin Name:       WordPress Plugin Boilerplate
+ * Plugin Name:       Retail TrustConnect
  * Plugin URI:        https://github.com/tquoctuan97/retail-plugin/retail-plugin-uri/
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Plugin phát triển API ECommerce TrustConnect
  * Version:           1.0.0
- * Author:            Your Name or Your Company
- * Author URI:        https://github.com/tquoctuan97/retail-plugin/
+ * Author:            TrustConnect
+ * Author URI:        http://trustconnect.vn/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       retail-plugin
